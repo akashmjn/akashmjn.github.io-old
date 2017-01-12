@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
+- title: About
+  url: /about
+  excerpt:
+  image:
+
+- title: Projects
+  url: /about
+  excerpt:
+  image:
+
+- title: "Other fun stuff"
+  url: /about
+  excerpt:
+  image:
+
+- title: Resume
+  url: /resume/AkashMahajan_resume.pdf
   excerpt:
   image:
